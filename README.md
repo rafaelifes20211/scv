@@ -40,30 +40,3 @@ O objetivo do sistema é agilizar o processo de empréstimo e garantir maior seg
 * Listar Quantidades de Reservas de Clientes (Por Status, Início e Término)
 * Listar Quantidades de Devoluções de Clientes (Por Filme, Data Início e Data Término)	
 ```
-
-## :computer: Instalação e execução <a name="-instalacao"/></a>
-
-0. Instale o gerenciador de dependências [Maven](https://maven.apache.org/download.cgi);
-1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd scv-backend-spring`;
-3. Rode `mvn spring-boot:run` para iniciar o servidor de desenvolvimento;
-4. Abra `http://localhost:8080` para ver o projeto no navegador.
-
-## :link: Links <a name="-links"/></a>
-
-- [GitHub Pages](https://ravarmes.github.io/scv-frontend-react-redux/) - Implantação do SCV Frontend React Redux;
-- [Heroku](https://scv-backend-spring.herokuapp.com/) - Implantação do SCV Backend Spring Boot;
-- [Postman](https://documenter.getpostman.com/view/4048967/Szf9XTg4) - Documentação do SCV Backend Spring Boot;
-- [YouTube](https://www.youtube.com/watch?v=XoejSRAPgs4&list=PL-mvLy2ws8IKOvqm2RClenHXArjQvo_pH) - Vídeos sobre o SCV Backend Spring Boot.
-
-## :memo: Licença <a name="-licenca"/></a>
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-## :email: Contato
-
-Rafael Vargas Mesquita - [GitHub](https://github.com/ravarmes) - [LinkedIn](https://www.linkedin.com/in/rafael-vargas-mesquita) - [Lattes](http://lattes.cnpq.br/6616283627544820) - **ravarmes@hotmail.com**
-
----
-
-Feito com ♥ by Rafael Vargas Mesquita :wink:
